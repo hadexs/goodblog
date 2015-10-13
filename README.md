@@ -1,0 +1,2 @@
+# goodblog
+my blog
